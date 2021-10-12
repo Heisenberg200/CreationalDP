@@ -1,5 +1,5 @@
 # CreationalDP
-Author: Corman Daniel
+# Author: Corman Daniel
 Objectives :
 1. Study the Creational Design Patterns
 
@@ -20,3 +20,6 @@ Factory Method
 Abstract Factory
 Implementation :
 In this project I've implemented 3 creational design patterns i.e. ( Builder,  Factory Method and Abstract Factory) with the emphasis on the fundamental object Car.
+...
+
+...
